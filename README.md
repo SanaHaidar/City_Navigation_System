@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # City Navigation System
 
 This project implements a simple city navigation system using a graph structure, where each city is a node, and each road between cities is an edge. The project supports basic operations like adding cities, creating roads, and finding the shortest path between two cities using BFS (Breadth-First Search).
